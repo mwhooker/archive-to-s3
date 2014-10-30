@@ -1,0 +1,3 @@
+name: s3archive
+version: 0.0.1
+description: archive to s3 step
